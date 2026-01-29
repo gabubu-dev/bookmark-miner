@@ -1,0 +1,123 @@
+{
+  "checksum": "test123",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "date_added": "13414129519162436",
+          "guid": "test-1",
+          "id": "1",
+          "name": "GitHub CLI - Command Line Tool",
+          "type": "url",
+          "url": "https://github.com/cli/cli"
+        },
+        {
+          "date_added": "13414129519162437",
+          "guid": "test-2",
+          "id": "2",
+          "name": "Simple Python Web Scraper Script",
+          "type": "url",
+          "url": "https://github.com/example/web-scraper"
+        },
+        {
+          "date_added": "13414129519162438",
+          "guid": "test-3",
+          "id": "3",
+          "name": "Enterprise Scale Distributed Database Platform - Documentation",
+          "type": "url",
+          "url": "https://docs.enterprise-db.com/"
+        },
+        {
+          "date_added": "13414129519162439",
+          "guid": "test-4",
+          "id": "4",
+          "name": "Arduino IoT Sensor Project Tutorial",
+          "type": "url",
+          "url": "https://arduino.cc/projects/iot-sensor"
+        },
+        {
+          "date_added": "13414129519162440",
+          "guid": "test-5",
+          "id": "5",
+          "name": "React Dashboard Component Library",
+          "type": "url",
+          "url": "https://github.com/example/react-dashboard"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13414129519162441",
+              "guid": "test-6",
+              "id": "6",
+              "name": "Unity Game Engine Tutorial - YouTube",
+              "type": "url",
+              "url": "https://youtube.com/watch?v=unity-tutorial"
+            },
+            {
+              "date_added": "13414129519162442",
+              "guid": "test-7",
+              "id": "7",
+              "name": "Simple 2D Platformer with Phaser | GameDev",
+              "type": "url",
+              "url": "https://gamedev.net/tutorials/phaser-platformer"
+            }
+          ],
+          "date_added": "13414129519162443",
+          "guid": "test-folder",
+          "id": "10",
+          "name": "Game Dev",
+          "type": "folder"
+        },
+        {
+          "date_added": "13414129519162444",
+          "guid": "test-8",
+          "id": "8",
+          "name": "ML Model Training Infrastructure",
+          "type": "url",
+          "url": "https://docs.mlops.com/infrastructure"
+        },
+        {
+          "date_added": "13414129519162445",
+          "guid": "test-9",
+          "id": "9",
+          "name": "Markdown to HTML Converter CLI",
+          "type": "url",
+          "url": "https://github.com/example/md-converter"
+        },
+        {
+          "date_added": "13414129519162446",
+          "guid": "test-10",
+          "id": "11",
+          "name": "Twitter Bot Python Script Tutorial",
+          "type": "url",
+          "url": "https://realpython.com/twitter-bot-tutorial"
+        },
+        {
+          "date_added": "13414129519162447",
+          "guid": "test-11",
+          "id": "12",
+          "name": "Docker Compose Setup Guide",
+          "type": "url",
+          "url": "https://docs.docker.com/compose"
+        }
+      ],
+      "date_added": "13414129519162436",
+      "date_last_used": "0",
+      "date_modified": "13414129519162436",
+      "guid": "root-bar",
+      "id": "1",
+      "name": "Bookmarks bar",
+      "type": "folder"
+    },
+    "other": {
+      "children": [],
+      "date_added": "13414129519162436",
+      "date_last_used": "0",
+      "date_modified": "13414129519162436",
+      "guid": "root-other",
+      "id": "2",
+      "name": "Other bookmarks",
+      "type": "folder"
+    }
+  }
+}
